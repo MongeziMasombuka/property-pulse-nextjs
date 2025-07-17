@@ -1,6 +1,6 @@
 # 🏠 Property Pulse
 
-**Property Pulse** is a full-featured real estate rental platform I built from the ground up using **Next.js**. It allows users to list, browse, and manage rental properties with rich features like messaging, image galleries, geolocation, social sharing, and more — all wrapped in a modern, responsive UI.
+**Property Pulse** is a full-featured real estate rental platform built using **Next.js**. It allows users to list, browse, and manage rental properties with rich features like messaging, image galleries, social sharing, and more — all wrapped in a modern, responsive UI.
 
 This project demonstrates advanced use of the **Next.js App Router**, **Server Actions**, **NextAuth**, **MongoDB**, **Cloudinary**, and other cutting-edge tools. It was designed as a production-grade full-stack application with performance, security, and user experience in mind.
 
